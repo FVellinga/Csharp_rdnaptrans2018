@@ -2,7 +2,7 @@
 
 <p>Een C# (Charp) Windows Forms programma t.b.v. <strong>RD NAP</strong> <-> <strong>ETRS89</strong> transformaties. Het is omzetting van de 
 <a href=https://github.com/FVellinga/gm_rdnaptrans2018>SAS implementatie</a> code naar C#. Meer details zijn daar te vinden. De SAS versie transformeert ook door naar <b>WGS84</b>. De C# versie niet. </p>
-<p><strong>Noot:</strong> De code is nog niet geplaatst. De zogenaamde validatie service werkt niet op de <a href=nsgi.nl>nsgi</a> site. Ik weet niet of daar iets is veranderd. Deze applicatie is van december 2020 maar nu pas plaats ik hem op github. Even uitzoeken wat daar aan de hand is. Heb geduld.</p>
+<p><strong>Noot:</strong> De code is nog niet geplaatst. De zogenaamde validatie service werkt niet op de <a href=http://www.nsgi.nl>nsgi</a> site. Ik weet niet of daar iets is veranderd. Deze applicatie is van december 2020 maar nu pas plaats ik hem op github. Even uitzoeken wat daar aan de hand is. Heb geduld.</p>
 
 
 # Inleiding
