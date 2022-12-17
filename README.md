@@ -33,3 +33,6 @@ ObjRdNap.ETRS89_to_RD("52 9 22,178", "5 23 15,500", 72.6882);</i>
 <p>Er moeten twee grid files (tekst bestanden) worden ingeladen. Optioneel zijn het zogenaamde zelfvalidatiebestand en de twee certificatie
 validatiebestanden. Handig, want hiermee toon je aan dat deze code werkt. </p>
 
+![Plaatje 1](https://github.com/FVellinga/Csharp_rdnaptrans2018/blob/main/plaatje1.png)
+![Plaatje 2](https://github.com/FVellinga/Csharp_rdnaptrans2018/blob/main/plaatje2.png)
+![Plaatje 3](https://github.com/FVellinga/Csharp_rdnaptrans2018/blob/main/plaatje3.png)
