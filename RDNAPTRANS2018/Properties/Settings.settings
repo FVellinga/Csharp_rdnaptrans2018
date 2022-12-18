@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RDNAPTRANS2018.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FrmWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">577</Value>
+    </Setting>
+    <Setting Name="FrmHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">666</Value>
+    </Setting>
+    <Setting Name="rdcorr2018" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Werk\RDNAPTRANS\rdcorr2018.txt</Value>
+    </Setting>
+    <Setting Name="nlgeo2018" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Werk\RDNAPTRANS\nlgeo2018.txt</Value>
+    </Setting>
+    <Setting Name="Z001_ETRS89andRDNAP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Werk\RDNAPTRANS\Z001_ETRS89andRDNAP.txt</Value>
+    </Setting>
+    <Setting Name="Z002_ETRS89" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Werk\RDNAPTRANS\002_ETRS89.txt</Value>
+    </Setting>
+    <Setting Name="Z002_RDNAP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Werk\RDNAPTRANS\002_RDNAP.txt</Value>
+    </Setting>
+    <Setting Name="RDx" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">155000</Value>
+    </Setting>
+    <Setting Name="RDy" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">463000</Value>
+    </Setting>
+    <Setting Name="NAPh" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ETRSlat" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ETRSlon" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ETRSh" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
